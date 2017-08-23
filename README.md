@@ -8,6 +8,7 @@ archive file format, loosely based on FAT32, but it turned out to
 be kind of a pain, since there was no real tooling. I therefore
 moved to bundling the assets in a ZIP-Archive. The art was
 done by me, the music is royalty free stuff found on the web.
+Assets are available [here](https://github.com/justacid/spaceclimber/releases/download/v.1.0/assets.zip).
 
 ### Screenshots
 
